@@ -1,0 +1,24 @@
+
+@font-face {
+	font-family: 'Fedora';
+    src: url('SF fedora.ttf');
+
+}
+body {
+    width: auto;
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover ;
+    background-position: center;
+    background-image: url(img/background.png);
+    font-family: 'Fedora';
+}
+
+.site-heading {
+	display:block;
+    width:200px;
+	border-radius: 10%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
