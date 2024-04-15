@@ -27,5 +27,11 @@ body {
 .blocktext {
     margin-left: auto;
     margin-right: auto;
+    width: 800px
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
     width: 800p
 }
